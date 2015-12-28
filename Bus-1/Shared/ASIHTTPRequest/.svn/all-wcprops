@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASINetworkQueue.m
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/Reachability.h
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIFormDataRequest.h
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/Reachability.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/beyondsoftabook_abook/!svn/ver/121/iOS/ASIHTTPRequest/ASIDownloadCache.h
+END
