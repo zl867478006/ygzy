@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "82B7BCB9A159326FA11DE07A23615DC7578A119A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "cd8ec587-7edc-4dc4-97c5-99e516626ece++2258" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "82B7BCB9A159326FA11DE07A23615DC7578A119A" : 0,
+    "cd8ec587-7edc-4dc4-97c5-99e516626ece++2258" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "69B8271D-04F1-4980-95E8-02C4967A475E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "82B7BCB9A159326FA11DE07A23615DC7578A119A" : "ygzy\/",
+    "cd8ec587-7edc-4dc4-97c5-99e516626ece++2258" : "ygzy\/Bus-1\/Shared\/ASIHTTPRequest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Bus",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Bus-1\/Bus.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zl867478006\/ygzy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "82B7BCB9A159326FA11DE07A23615DC7578A119A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/beyondsoftabook.unfuddle.com\/svn\/beyondsoftabook_abook",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "cd8ec587-7edc-4dc4-97c5-99e516626ece++2258"
+    }
+  ]
+}
