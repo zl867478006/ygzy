@@ -3625,7 +3625,7 @@ static NSOperationQueue *sharedQueue = nil;
 	fclose(dest);
 	fclose(source);
 	
-	// We have to close both of these explictly because CFReadStreamCreateForStreamedHTTPRequest() seems to go bonkers otherwise
+	// We have to close both of these explicitly because CFReadStreamCreateForStreamedHTTPRequest() seems to go bonkers otherwise
 	[inputFileHandle closeFile];
 	[outputFileHandle closeFile];
 
